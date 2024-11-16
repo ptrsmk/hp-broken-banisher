@@ -7,7 +7,7 @@ YOURLS plugin to eliminate broken (404) links from the database.
 
 ## Purpose
 
-This plugin helps you audit your links and banish them from the database.
+This plugin helps you audit your links and banish broken ones from the database.
 
 
 ## How to
