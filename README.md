@@ -1,7 +1,8 @@
 # HolyPixels Broken Banisher
 YOURLS plugin to eliminate broken (404) links from the database.
 
-> This plugin requires YOURLS 1.7+ 
+> This plugin requires YOURLS 1.7+
+> Be aware, there's no sanitization going on here. Obviously, the code shouldn't run unless the API key is correct though. 
 
 ## Purpose
 
