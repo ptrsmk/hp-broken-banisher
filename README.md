@@ -1,6 +1,5 @@
-# HolyPixels Broken Banisher
+# HolyPixels Broken Banisher [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 YOURLS plugin to eliminate broken (404) links from the database.
-[![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
 > This plugin requires YOURLS 1.7+
 
