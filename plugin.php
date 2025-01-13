@@ -100,7 +100,7 @@ function check_broken_links_api() {
         }
 
         $offset += $perpage - $d;
-        $next_request_url = yourls_get_yourls_site() . "/yourls-api.php?action=check_broken_links&format=json&signature=$_REQUEST['signature']&offset=$offset";
+        $next_request_url = yourls_get_yourls_site() . '/yourls-api.php?action=check_broken_links&format=json&signature='. $_REQUEST['signature'] . '&offset=' . $offset;
         if (isset($_REQUEST['perpage'])) {
             $next_request_url .= "&perpage=$perpage";
         }
